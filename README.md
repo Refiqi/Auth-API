@@ -1,4 +1,4 @@
-# Todos API
+# Auth API
  [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() 
 Languages : Ruby, Framework : Rails
 Basic API JSON with Authenticate Knock 
